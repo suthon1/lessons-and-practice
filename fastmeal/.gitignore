@@ -1,0 +1,10 @@
+media/
+__pyache__/
+*.pyc
+.idea/
+venv/
+env/
+settings.py
+media
+gitignore
+config/home/suior/online_delivery/fastmeal/config/home/suior/online_delivery/fastmeal/config
